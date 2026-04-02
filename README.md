@@ -53,4 +53,4 @@ O programa identifica diferentes usos de Excel e SQL no contexto bancário.
 
 ## 👨‍💻 Autor
 
-Joice Soatogit add .
+Joice Soato
