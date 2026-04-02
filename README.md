@@ -1,14 +1,14 @@
-# 💼 Desafios de Excel e SQL (Contexto Bancário)
+# Desafios de Excel e SQL (Contexto Bancário)
 
 Este repositório contém soluções em Python para desafios básicos envolvendo o uso de Excel e SQL no contexto de banco e mercado financeiro.
 
-## 📌 Objetivo
+## Objetivo
 
 Demonstrar lógica de programação, manipulação de strings e organização de código aplicados a cenários reais do mercado financeiro.
 
 ---
 
-## 🧩 Desafio 1: Uso de Excel e SQL
+## Desafio 1: Uso de Excel e SQL
 
 O programa recebe o nome de uma técnica e retorna sua descrição.
 
@@ -21,7 +21,7 @@ O programa recebe o nome de uma técnica e retorna sua descrição.
 
 ---
 
-## 🧩 Desafio 2: Simulação e Análise Financeira
+## Desafio 2: Simulação e Análise Financeira
 
 O programa identifica diferentes usos de Excel e SQL no contexto bancário.
 
@@ -34,7 +34,7 @@ O programa identifica diferentes usos de Excel e SQL no contexto bancário.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Lógica de programação
@@ -42,7 +42,7 @@ O programa identifica diferentes usos de Excel e SQL no contexto bancário.
 
 ---
 
-## 📈 O que este projeto demonstra
+## O que este projeto demonstra
 
 - Uso de estruturas condicionais (`if/elif`)
 - Organização de código
@@ -51,6 +51,6 @@ O programa identifica diferentes usos de Excel e SQL no contexto bancário.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Joice Soato
